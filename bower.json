@@ -1,0 +1,18 @@
+{
+  "name": "rookery",
+  "homepage": "https://github.com/ravenguild/rookery",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.0"
+  }
+}
